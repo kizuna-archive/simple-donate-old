@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "@lottiefiles/dotlottie-vue": "^0.10.7",
-    "axios": "^1.13.1",
+    "axios": "^1.13.5",
     "motion-v": "^1.7.4",
     "promptparse": "^1.4.0",
     "qrcode-svg": "^1.1.0",
