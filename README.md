@@ -22,7 +22,7 @@ make a self-hosted donation site easier than it should be :D
 
 - Production
 
-  - JS: `Next.js` + `typescript`
+  - JS: `React.js` + `typescript` + `vite.js` + `nitro`
   - CSS: `tailwind.css`
 
 ### BackEnd
