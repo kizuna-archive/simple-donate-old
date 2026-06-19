@@ -1,3 +1,5 @@
+# This project is no longer maintain. After the remaking of this project in another techstacks and so just go and see on [This repository](https://github.com/kizuna-inc/simple-donate)
+
 # Simple Donate
 
 make a self-hosted donation site easier than it should be :D
